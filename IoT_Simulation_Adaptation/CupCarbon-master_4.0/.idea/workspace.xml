@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CupCarbon:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a8d42b1-5872-4c87-90b2-fa7f533a1db5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/Enregistrer sous.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/Enregistrer sous.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/Enregistrer.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/Enregistrer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/Fermer.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/Fermer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/activity_window.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/activity_window.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/activity_window2.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/activity_window2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/add.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/add.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/addselection.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/addselection.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/anr_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/anr_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/arduino.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/arduino.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/arrow_rotate_anticlockwise.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/arrow_rotate_anticlockwise.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/arrow_rotate_clockwise.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/arrow_rotate_clockwise.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/b_next.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/b_next.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/b_prev.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/b_prev.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/battery.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/battery.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/blank_badge_blue.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/blank_badge_blue.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/blank_badge_blue_ciel.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/blank_badge_blue_ciel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/blank_badge_cam.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/blank_badge_cam.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/blank_badge_green.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/blank_badge_green.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/blank_badge_mauve.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/blank_badge_mauve.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/blank_badge_noir.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/blank_badge_noir.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/blank_badge_noir_radio - copie.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/blank_badge_noir_radio - copie.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/blank_badge_orange.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/blank_badge_orange.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/blockdevice.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/blockdevice.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/building.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/building.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/check.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/check.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/circle_blue.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/circle_blue.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/circle_green.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/circle_green.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/circle_grey.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/circle_grey.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/circle_orange.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/circle_orange.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/circle_yellow.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/circle_yellow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/connection.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/connection.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/copy.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/copy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/cupcarbon_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/cupcarbon_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/cupcarbon_logo2.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/cupcarbon_logo2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/cupcarbon_logo_small.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/cupcarbon_logo_small.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/curve.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/curve.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/cut.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/cut.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/dell_display.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/dell_display.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/demo.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/demo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/deselect_node.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/deselect_node.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/deselection.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/deselection.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/down_arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/down_arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/dragon_fly.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/dragon_fly.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/edu_mathematics-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/edu_mathematics-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/edu_mathematics.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/edu_mathematics.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/filesaveas.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/filesaveas.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/fire.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/fire.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/flag_green.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/flag_green.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/flag_green2.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/flag_green2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/flag_red.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/flag_red.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/folder.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/folder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/folder2.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/folder2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/folder_new.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/folder_new.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/frame_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/frame_chart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/genWeather.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/genWeather.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/geo.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/geo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/gnome_logout.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/gnome_logout.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/gnome_panel_window_menu-1 2.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/gnome_panel_window_menu-1 2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/gnome_panel_window_menu-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/gnome_panel_window_menu-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/gnome_panel_window_menu.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/gnome_panel_window_menu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/graph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/graph2.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/graph2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/insects.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/insects.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/kmenuedit.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/kmenuedit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/lab_sticc.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/lab_sticc.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/layer_select.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/layer_select.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/limited_edition.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/limited_edition.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/linkcolor.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/linkcolor.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/logo_cap_carbon.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/logo_cap_carbon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/logo_cup_carbon_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/logo_cup_carbon_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/loopnone.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/loopnone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/loopnone2.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/loopnone2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/magnetic.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/magnetic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/marker2.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/marker2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/marker2_.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/marker2_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/marker_rounded_light_blue.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/marker_rounded_light_blue.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/marktosens.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/marktosens.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/media_playback_start.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/media_playback_start.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/mmu.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/mmu.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/mobile.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/mobile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/moins_rouge.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/moins_rouge.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/move2red.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/move2red.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/oi.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/oi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/old_openofficeorg_math.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/old_openofficeorg_math.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/open.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/open.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/open2.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/open2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/paste.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/paste.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/personal-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/personal-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/plus_vert.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/plus_vert.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/projects_folder_badged.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/projects_folder_badged.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/propagation.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/propagation.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/randomp.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/randomp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/real_propagation.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/real_propagation.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/red_cross.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/red_cross.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/remove.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/remove.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/reset.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/reset.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/right.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/right_16.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/right_16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/rotate_cw.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/rotate_cw.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/route.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/route.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/route2.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/route2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/run.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/run.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/run2.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/run2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/run_sim_quick.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/run_sim_quick.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/run_simulation.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/run_simulation.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/runinjection.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/runinjection.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/sea.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/sea.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/select_node.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/select_node.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/select_obj_marker.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/select_obj_marker.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/selection.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/selection.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/selectmarkers.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/selectmarkers.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/selectmarkers2.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/selectmarkers2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/selectobjects.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/selectobjects.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/selectobjects2.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/selectobjects2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/settings_right_rest.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/settings_right_rest.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/shape_square_select.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/shape_square_select.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/shapes_many_select.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/shapes_many_select.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/square_green.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/square_green.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/square_green_add.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/square_green_add.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/square_red.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/square_red.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/stock_filters_invert.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/stock_filters_invert.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/stopinjection.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/stopinjection.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/stylo.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/stylo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/sun.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/sun.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/supprimer.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/supprimer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/symbol_help.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/symbol_help.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/symbol_information.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/symbol_information.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/tree_diagramm.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/tree_diagramm.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/ui_menu_blue 2.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/ui_menu_blue 2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/ui_menu_blue.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/ui_menu_blue.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/virtualys.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/virtualys.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/visibility.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/visibility.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/weather.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/weather.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/weather_file.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/images/weather_file.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/action/CupAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/action/CupAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/action/CupActionAddDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/action/CupActionAddDevice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/action/CupActionAddMarker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/action/CupActionAddMarker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/action/CupActionAddRadioModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/action/CupActionAddRadioModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/action/CupActionAddSensor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/action/CupActionAddSensor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/action/CupActionAddStdSensor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/action/CupActionAddStdSensor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/action/CupActionBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/action/CupActionBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/action/CupActionDeleteBuilding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/action/CupActionDeleteBuilding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/action/CupActionDeleteDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/action/CupActionDeleteDevice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/action/CupActionDeleteMarker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/action/CupActionDeleteMarker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/action/CupActionDeleteRadioModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/action/CupActionDeleteRadioModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/action/CupActionDeleteSensor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/action/CupActionDeleteSensor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arduino/Arduino.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arduino/Arduino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arduino/BeginInstructions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arduino/BeginInstructions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arduino/Bracket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arduino/Bracket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/battery/Battery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/battery/Battery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buildings/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buildings/Building.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buildings/BuildingList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buildings/BuildingList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/client/CupClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/CupClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon/AboutCupCarbonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon/AboutCupCarbonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon/ConsoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon/ConsoleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon/ConsoleWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon/ConsoleWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon/CupCarbon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon/CupCarbon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon/CupCarbonClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon/CupCarbonClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon/CupCarbonConsoleStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon/CupCarbonConsoleStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon/CupCarbonContextMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon/CupCarbonContextMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon/CupCarbonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon/CupCarbonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon/CupCarbonErrConsoleStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon/CupCarbonErrConsoleStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon/CupCarbonParameters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon/CupCarbonParameters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon/CupCarbonVersion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon/CupCarbonVersion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon/EnergyDrawController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon/EnergyDrawController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon/EnergyDrawWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon/EnergyDrawWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon/MonPanneau.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon/MonPanneau.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon/NaturalEventGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon/NaturalEventGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon/NaturalEventGeneratorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon/NaturalEventGeneratorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon/RadioStandardModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon/RadioStandardModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon/SenScriptController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon/SenScriptController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon/SenScriptWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon/SenScriptWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon/SplashController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon/SplashController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon/about.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon/about.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon/console.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon/console.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon/cupcarbon.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon/cupcarbon.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon/cupcarbon_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon/cupcarbon_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon/cupcarbon_logo_small.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon/cupcarbon_logo_small.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon/cupcarbon_splash.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon/cupcarbon_splash.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon/line_chart.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon/line_chart.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon/natevent.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon/natevent.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon/natevent2.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon/natevent2.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon/senscript.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon/senscript.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCarbonServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCarbonServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_ADD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_ADD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_BUILDINGS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_BUILDINGS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_COLOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_COLOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_DELETE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_DELETE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_DESELECT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_DESELECT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_DISPLAY.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_DISPLAY.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_DIV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_DIV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_DUPLICATE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_DUPLICATE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_ELSE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_ELSE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_ENDFOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_ENDFOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_ENDIF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_ENDIF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_ENDWHILE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_ENDWHILE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_FILE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_FILE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_FOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_FOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_GENERATE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_GENERATE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_GETPARAMETER.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_GETPARAMETER.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_GOTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_GOTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_HIDE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_HIDE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_IF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_IF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_INIT_ID.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_INIT_ID.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_INSERT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_INSERT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_MAP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_MAP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_MINUS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_MINUS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_MOVE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_MOVE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_MULT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_MULT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_NETWORK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_NETWORK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_PLUS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_PLUS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_PRINTLN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_PRINTLN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_PROJECT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_PROJECT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_QUIT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_QUIT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_RADIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_RADIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_RESET.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_RESET.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_SAVE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_SAVE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_SELECT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_SELECT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_SET.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_SET.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_SETPARAMETER.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_SETPARAMETER.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_SIMULATION.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_SIMULATION.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_STOP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_STOP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_WHILE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCommand_WHILE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCondition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupConditionElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupConditionElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupConditionElementAnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupConditionElementAnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupConditionElementEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupConditionElementEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupConditionElementOr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupConditionElementOr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCondition_EQUAL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCondition_EQUAL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCondition_GREATER.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCondition_GREATER.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCondition_GREATEREQUAL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCondition_GREATEREQUAL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCondition_LESS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCondition_LESS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCondition_LESSEQUAL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCondition_LESSEQUAL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupCondition_NOTEQUAL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupCondition_NOTEQUAL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupEvalCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupEvalCondition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupScript.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupScript.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupScriptAddCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupScriptAddCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/CupVariableList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/CupVariableList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/SCupCarbon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/SCupCarbon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/SCupCarbon2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/SCupCarbon2_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/SCupCarbon2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/SCupCarbon2_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/SCupCarbon3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/SCupCarbon3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/SCupCarbon4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/SCupCarbon4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cupcarbon_script/SCupCarbonConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cupcarbon_script/SCupCarbonConsole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/device/BaseStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/device/BaseStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/device/Device.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/device/Device.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/device/DeviceList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/device/DeviceList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/device/DeviceWithRadio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/device/DeviceWithRadio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/device/DeviceWithWithoutRadio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/device/DeviceWithWithoutRadio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/device/DeviceWithoutRadio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/device/DeviceWithoutRadio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/device/DirectionalSensorNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/device/DirectionalSensorNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/device/LocationEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/device/LocationEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/device/MapObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/device/MapObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/device/MessageEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/device/MessageEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/device/MessageEventList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/device/MessageEventList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/device/Mobile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/device/Mobile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/device/MobileG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/device/MobileG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/device/MobileGWR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/device/MobileGWR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/device/MobileWithRadio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/device/MobileWithRadio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/device/MultiChannels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/device/MultiChannels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/device/NetworkLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/device/NetworkLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/device/RealSensorNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/device/RealSensorNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/device/SensorNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/device/SensorNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/device/StdSensorNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/device/StdSensorNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/enegy_conso_model/EnergyConsumptionExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enegy_conso_model/EnergyConsumptionExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/enegy_conso_model/EnergyConsumptionModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enegy_conso_model/EnergyConsumptionModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/enegy_conso_model/EnergyConsumptionToken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enegy_conso_model/EnergyConsumptionToken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/enegy_conso_model/EnergyConsumptionTokenStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enegy_conso_model/EnergyConsumptionTokenStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ext_visualisation/Visualisation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ext_visualisation/Visualisation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ext_visualisation/Visualisation2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ext_visualisation/Visualisation2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/external_event/EventList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/external_event/EventList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/external_event/ExternalEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/external_event/ExternalEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fault_injection/FaultInjector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fault_injection/FaultInjector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frame/Frame_802_15_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frame/Frame_802_15_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frame/ZbFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frame/ZbFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/geo_objects/GeoZone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/geo_objects/GeoZone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/geo_objects/GeoZoneList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/geo_objects/GeoZoneList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/geometry/DEdge2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/geometry/DEdge2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/geometry/DPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/geometry/DPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/geometry/SNEdge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/geometry/SNEdge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graph/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graph/GraphStd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graph/GraphStd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graph/Vertex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graph/Vertex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graph/VertexStd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graph/VertexStd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interference/AlphaStableRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interference/AlphaStableRandom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interference/LoRaTransceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interference/LoRaTransceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interference/WiFiTransceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interference/WiFiTransceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interference/ZigBeeTransceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interference/ZigBeeTransceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/WorldMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/WorldMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/markers/Marker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/markers/Marker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/markers/MarkerList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/markers/MarkerList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/markers/NamedRoute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/markers/NamedRoute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/markers/Routes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/markers/Routes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/Angle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/Angle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/Complex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/Complex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/FFT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/FFT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/Intersect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/Intersect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/UFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/UFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/natural_events/Gas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/natural_events/Gas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/natural_events/Gas2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/natural_events/Gas2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/natural_events/Weather.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/natural_events/Weather.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/osm/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/osm/City.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/overpass/Osm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/overpass/Osm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/overpass/OsmNd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/overpass/OsmNd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/overpass/OsmNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/overpass/OsmNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/overpass/OsmOverpass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/overpass/OsmOverpass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/overpass/OsmTag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/overpass/OsmTag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/overpass/OsmWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/overpass/OsmWay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/perso/ExampleClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/perso/ExampleClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/perso/MonAlgoClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/perso/MonAlgoClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/perso/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/perso/MyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/perso/Poly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/perso/Poly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Project.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Project.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/radio_module/ErrorBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/radio_module/ErrorBits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/radio_module/RadioDetection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/radio_module/RadioDetection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/radio_module/RadioModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/radio_module/RadioModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/radio_module/RadioModule_Lora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/radio_module/RadioModule_Lora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/radio_module/RadioModule_Wifi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/radio_module/RadioModule_Wifi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/radio_module/RadioModule_ZigBee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/radio_module/RadioModule_ZigBee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/radio_module/RadioPacketGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/radio_module/RadioPacketGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/radio_module/XBeeFrameGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/radio_module/XBeeFrameGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/radio_module/XBeeToArduinoFrameGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/radio_module/XBeeToArduinoFrameGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/radio_module/XbeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/radio_module/XbeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_AND.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_AND.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_ANGLE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_ANGLE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_ANGLE2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_ANGLE2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_AREADSENSOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_AREADSENSOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_ATCH.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_ATCH.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_ATGET.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_ATGET.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_ATID.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_ATID.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_ATMY.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_ATMY.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_ATND.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_ATND.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_ATNID.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_ATNID.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_ATPL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_ATPL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_BAND.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_BAND.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_BATTERY.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_BATTERY.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_BNOT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_BNOT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_BOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_BOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_BUFFER.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_BUFFER.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_BXOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_BXOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_CBUFFER.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_CBUFFER.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_CDISTANCE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_CDISTANCE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_CHARAT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_CHARAT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_CONC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_CONC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_CPRINT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_CPRINT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_DATA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_DATA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_DECONC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_DECONC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_DELAY.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_DELAY.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_DISTANCE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_DISTANCE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_DIV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_DIV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_DREADSENSOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_DREADSENSOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_DRSSI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_DRSSI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_EDGE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_EDGE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_ELSE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_ELSE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_ENDFOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_ENDFOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_ENDFOR2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_ENDFOR2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_ENDIF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_ENDIF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_ENDWHILE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_ENDWHILE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_FIRST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_FIRST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_FOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_FOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_FOR2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_FOR2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_FUNCTION.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_FUNCTION.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_GETINFO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_GETINFO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_GETPOS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_GETPOS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_GETPOS2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_GETPOS2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_GOTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_GOTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_HASH.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_HASH.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_IF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_IF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_INT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_INT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_KILL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_KILL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_LAST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_LAST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_LED.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_LED.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_RADIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_RADIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_ROTATE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_ROTATE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_ROUTE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_ROUTE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_ROUTE2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_ROUTE2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/Command_SEND.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/Command_SEND.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/SenScriptCPUTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/SenScriptCPUTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/SenScriptCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/SenScriptCondition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/SenScriptConditionElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/SenScriptConditionElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/SenScriptConditionElementAnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/SenScriptConditionElementAnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/SenScriptConditionElementEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/SenScriptConditionElementEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/SenScriptConditionElementOr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/SenScriptConditionElementOr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/SenScriptCondition_EQUAL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/SenScriptCondition_EQUAL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/SenScriptCondition_GREATER.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/SenScriptCondition_GREATER.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/SenScriptCondition_GREATEREQUAL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/SenScriptCondition_GREATEREQUAL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/SenScriptCondition_LESS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/SenScriptCondition_LESS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/SenScriptCondition_LESSEQUAL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/SenScriptCondition_LESSEQUAL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/SenScriptCondition_NOTEQUAL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/SenScriptCondition_NOTEQUAL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/SenScriptEvalCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/SenScriptEvalCondition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/SenScriptException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/SenScriptException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/SenScriptExpressionCalculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/SenScriptExpressionCalculate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/SenScriptTabList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/SenScriptTabList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/SenScriptToken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/SenScriptToken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript/SenScriptTokenStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript/SenScriptTokenStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/senscript_functions/Functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/senscript_functions/Functions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sensorunit/DirectionalSensorUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sensorunit/DirectionalSensorUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sensorunit/SensorUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sensorunit/SensorUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sensorunit/StdSensorUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sensorunit/StdSensorUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simulation/SimLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simulation/SimLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simulation/SimulationInputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simulation/SimulationInputs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simulation/WisenAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simulation/WisenAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simulation/WisenActionType1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simulation/WisenActionType1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simulation/WisenEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simulation/WisenEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simulation/WisenEventList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simulation/WisenEventList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simulation/WisenSimulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simulation/WisenSimulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/socket/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/socket/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/socket/Serveur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/socket/Serveur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/socket/Viterbi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/socket/Viterbi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solver/CycleFromNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solver/CycleFromNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solver/EnvelopeJarvis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solver/EnvelopeJarvis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solver/EnvelopeLPCN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solver/EnvelopeLPCN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solver/EnvelopeLPCN2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solver/EnvelopeLPCN2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solver/EnvelopeLPCN3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solver/EnvelopeLPCN3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solver/EnvelopeLPCNMobile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solver/EnvelopeLPCNMobile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solver/EnvelopeLPCN_secu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solver/EnvelopeLPCN_secu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solver/EnvelopeLPCN_wc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solver/EnvelopeLPCN_wc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solver/NetworkBorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solver/NetworkBorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solver/NetworkCenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solver/NetworkCenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solver/NetworkEnvelope2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solver/NetworkEnvelope2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solver/NetworkEnvelopeByAngle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solver/NetworkEnvelopeByAngle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solver/NetworkEnvelopeC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solver/NetworkEnvelopeC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solver/NetworkEnvelopeC2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solver/NetworkEnvelopeC2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solver/NetworkEnvelopeC3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solver/NetworkEnvelopeC3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solver/NetworkEnvelopeH2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solver/NetworkEnvelopeH2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solver/NetworkEnvelopeHTmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solver/NetworkEnvelopeHTmp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solver/NetworkEnvelopeNAN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solver/NetworkEnvelopeNAN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solver/NetworkEnvelopeP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solver/NetworkEnvelopeP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solver/NetworkPerso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solver/NetworkPerso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solver/OfNetworkEnvelopeCtmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solver/OfNetworkEnvelopeCtmp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solver/SensorGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solver/SensorGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solver/SensorSetCover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solver/SensorSetCover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solver/SensorTargetCoverageRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solver/SensorTargetCoverageRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solver/SolverProxyParams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solver/SolverProxyParams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solver/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solver/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utilities/Db.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utilities/Db.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utilities/FiltreSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utilities/FiltreSimple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utilities/Geometry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utilities/Geometry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utilities/MapCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utilities/MapCalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utilities/TileDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utilities/TileDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utilities/TilesD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utilities/TilesD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utilities/UColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utilities/UColor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visibility/VisibilityLauncher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visibility/VisibilityLauncher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visibility/VisibilityZones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visibility/VisibilityZones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visibility/VisibilityZones2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visibility/VisibilityZones2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vizor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vizor/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vizor/VizorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vizor/VizorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/recent.rec" beforeDir="false" afterPath="$PROJECT_DIR$/utils/recent.rec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Model_Checker/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Model_Checker/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Model_Checker/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../Model_Checker/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Model_Checker/src/archlearner/mc/analysis/Analyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Model_Checker/src/archlearner/mc/analysis/Analyzer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Model_Checker/src/archlearner/mc/analysis/ForecastAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Model_Checker/src/archlearner/mc/analysis/ForecastAnalyzer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Model_Checker/src/archlearner/mc/analysis/TrafficPeriod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Model_Checker/src/archlearner/mc/analysis/TrafficPeriod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Model_Checker/src/archlearner/mc/codegeneration/PrismGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Model_Checker/src/archlearner/mc/codegeneration/PrismGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Model_Checker/src/archlearner/mc/configuration/Configuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Model_Checker/src/archlearner/mc/configuration/Configuration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Model_Checker/src/archlearner/mc/configuration/ConfigurationEdge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Model_Checker/src/archlearner/mc/configuration/ConfigurationEdge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Model_Checker/src/archlearner/mc/configuration/ConfigurationNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Model_Checker/src/archlearner/mc/configuration/ConfigurationNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Model_Checker/src/archlearner/mc/configuration/ConfigurationParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Model_Checker/src/archlearner/mc/configuration/ConfigurationParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Model_Checker/src/archlearner/mc/configuration/SensorForecastPeriod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Model_Checker/src/archlearner/mc/configuration/SensorForecastPeriod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adaptation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../adaptation.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/colt.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/colt.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/epsgraphics.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/epsgraphics.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/jas.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/jas.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/jcommon.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/jcommon.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/jfreechart.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/jfreechart.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/jhoafparser.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/jhoafparser.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/json-simple-1.1.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/json-simple-1.1.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/log4j.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/log4j.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/lpsolve55j.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/lpsolve55j.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/prism.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/prism.jar" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CupCarbon" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1U7bnEdl2vpgvkHTvUzOz3ovcih" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CupCarbon">
+    <configuration name="CupCarbon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cupcarbon.CupCarbon" />
+      <module name="CupCarbon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cupcarbon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CupCarbonClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cupcarbon.CupCarbonClient" />
+      <module name="CupCarbon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cupcarbon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CupCarbon" />
+        <item itemvalue="Application.CupCarbonClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a8d42b1-5872-4c87-90b2-fa7f533a1db5" name="Default Changelist" comment="" />
+      <created>1574710745054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574710745054</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,3 @@
+loop
+wait
+read $var
