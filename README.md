@@ -13,7 +13,7 @@ The microservices were deployed on two Google Cloud instances with different geo
 
 #### Fog and IoT deployment Configurations
 
-To emulate the edge layer setup, one desktop machine with 8 GB RAM and Intel 3rd Generation i5 (2.6 GHz quad core) with Ubuntu 16.04 LTS was used to run the CupCarbon simulation. Further, a Macbook pro with 16GB RAM and 8th Generation Intel i7 1.7 GHz (Quad Core) was used to deploy the Fog layer. The configurations of different IoT sensors can be found [here](https://github.com/confcodesubmit/ICSA2021_Submission90/wiki/NdR_IoT_Config)
+To emulate the edge layer setup, one desktop machine with 8 GB RAM and Intel 3rd Generation i5 (2.6 GHz quad core) with Ubuntu 16.04 LTS was used to run the CupCarbon simulation. Further, a Macbook pro with 16GB RAM and 8th Generation Intel i7 1.7 GHz (Quad Core) was used to deploy the Fog layer. The configurations of different IoT sensors can be found [here](https://github.com/karthikv1392/PIE-ML/wiki)
 
 
 ## NdR Case Study Application Architecture
